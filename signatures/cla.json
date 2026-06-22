@@ -1,12 +1,3 @@
 {
-  "signedContributors": [
-    {
-      "name": "alexisrolland",
-      "id": 13064696,
-      "comment_id": 4765465008,
-      "created_at": "2026-06-22T06:19:54Z",
-      "repoId": 1276551443,
-      "pullRequestNo": 3
-    }
-  ]
+  "signedContributors": []
 }
