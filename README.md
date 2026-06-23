@@ -22,6 +22,6 @@ To enable the CLA check on a new repository:
 
   - Type the branch name (ex: `master` or `main`)
   - Select **Require status checks to pass before merging**
-  - Select `license/cla`
+  - Select `cla-assistant`
 
 Once the workflow and secret are in place, the CLA check runs automatically on every new pull request.
