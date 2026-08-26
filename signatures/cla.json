@@ -1831,6 +1831,14 @@
       "created_at": "2026-08-26T22:49:03Z",
       "repoId": 589831718,
       "pullRequestNo": 15909
+    },
+    {
+      "name": "koshimazaki",
+      "id": 18751916,
+      "comment_id": 5432043622,
+      "created_at": "2026-08-26T22:54:33Z",
+      "repoId": 814403270,
+      "pullRequestNo": 10812
     }
   ]
 }
