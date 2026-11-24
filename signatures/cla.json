@@ -4143,6 +4143,14 @@
       "created_at": "2026-11-23T15:16:39Z",
       "repoId": 589831718,
       "pullRequestNo": 17940
+    },
+    {
+      "name": "AKharytonchyk",
+      "id": 20802675,
+      "comment_id": 7124515220,
+      "created_at": "2026-11-24T07:00:28Z",
+      "repoId": 589831718,
+      "pullRequestNo": 17957
     }
   ]
 }
